@@ -1,0 +1,12 @@
+Tully Martin
+CS332 Section 1 Armend Mala
+Lab 1 Reconnaissance
+Whois
+1.
+2.
+DNS
+1.
+2.
+3.
+SSL_Certificates
+1.
