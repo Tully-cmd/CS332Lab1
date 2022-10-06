@@ -19,14 +19,14 @@ $ whois boisestate.edu
 
 ## DNS
 
-Using dnsdumpster.com obtain a list of sub domains for boisestate.edu and provide a list of 5 subdomains that you didn't know existed prior to running the scan. (Any 5 subdomains is fine,  screenshots are ok)
-Upload the "Domain Map" image from DNS Dumpster that summarizes the search results for "boisestate.edu"
-Use Fierce (in your Kali VM) to do a DNS scan:
+1. Using dnsdumpster.com obtain a list of sub domains for boisestate.edu and provide a list of 5 subdomains that you didn't know existed prior to running the scan. (Any 5 subdomains is fine,  screenshots are ok)
+2. Upload the "Domain Map" image from DNS Dumpster that summarizes the search results for "boisestate.edu"
+3. Use Fierce (in your Kali VM) to do a DNS scan:
      ```
      $ fierce --domain boisestate.edu
      ```
-What is the IP address for the host "gold.boisestate.edu"
-What is the IP address for the host "majors.boisestate.edu"
+- What is the IP address for the host "gold.boisestate.edu"
+- What is the IP address for the host "majors.boisestate.edu"
 
 
 ## SSL Certificates
